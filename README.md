@@ -1,5 +1,5 @@
 # dynamodb-sample
-Rest-Api built with AWS DynamoDB, that's a sample for working with DynamoDB.
+Rest-Api built with AWS DynamoDB, this's a sample for working with DynamoDB.
 
 Main stack:
 
